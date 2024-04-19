@@ -35,7 +35,7 @@ To run CalendarApp, the following minimum requirements apply:
 
 ## Author
 
-Divyansh Dubey
+Yash Rastogi
 
 
 ## License
